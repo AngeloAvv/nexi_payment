@@ -15,7 +15,7 @@ A new flutter plugin project.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'Nexi_XPay'
+  s.dependency 'Nexi_XPay', '1.4.5'
   s.ios.deployment_target = '10.0'
   s.platform = :ios, '10.0'
   # Flutter.framework does not contain a i386 slice. Only x86_64 simulators are supported.
